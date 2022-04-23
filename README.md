@@ -1,3 +1,3 @@
 # test_repo
 
-hello world
+LGTMoonの導入テスト
