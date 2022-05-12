@@ -1,5 +1,3 @@
-# test_repo
+# githubに関する設定や挙動確認用
 
-タグテスト２
-
-タグテスト３
+- GithubActionsの導入(lgtmoon)
