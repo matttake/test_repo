@@ -2,3 +2,4 @@
 
 - GithubActionsの導入(lgtmoon)
 - mainとdevelopブランチ分け
+- tag付(Ver管理)練習
