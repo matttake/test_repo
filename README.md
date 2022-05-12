@@ -3,4 +3,4 @@
 - GithubActionsの導入(lgtmoon)
 - mainとdevelopブランチ分け
 - tag付(Ver管理)練習
-- commitに絵文字つける
+- git-fancy-message-prefixの導入(commit時のPrefix絵文字)
